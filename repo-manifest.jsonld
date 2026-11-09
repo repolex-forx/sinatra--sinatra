@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sinatra/sinatra/commit/cb22afd7902b566b6eaba6c4ea89739494a65d12",
       "git:hexsha": "cb22afd7902b566b6eaba6c4ea89739494a65d12",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/sinatra/sinatra/commit/72be291da2bf7a5e2dacf8b9119a258d8db53c43",
